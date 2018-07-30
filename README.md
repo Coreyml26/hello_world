@@ -1,4 +1,2 @@
 # hello_world
-New Here
-This is a little something about me.
-This should be the edits branch.
+I am currently working in the edits branch.
