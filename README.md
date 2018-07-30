@@ -1,5 +1,2 @@
 # hello_world
-
-This is a little something about me.
-Let's try this again.
-I editted the wrong one.
+I am currently working in the edits branch.
